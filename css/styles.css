@@ -1,0 +1,19 @@
+/* header.link:hover {
+  color: #2196f3;
+  background-color: white;
+} */
+
+header * {
+  text-decoration: none;
+  color: black;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+}
+
+header > nav > ul > li > a:hover {
+  color: #2196f3;
+}
