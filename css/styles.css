@@ -22,6 +22,22 @@ header ul a:focus {
   color: #2196f3;
 }
 
+.site-nav li {
+  padding-right: 50px;
+}
+
+.site-nav {
+  padding-left: 93px;
+}
+
+.mailtel-nav {
+  padding-left: 281px;
+}
+
+.mailtel-nav .tel {
+  padding-left: 50px;
+}
+
 .logo-web {
   font-family: Raleway;
   font-weight: bold;
