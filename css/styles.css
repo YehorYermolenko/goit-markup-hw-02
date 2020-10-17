@@ -185,7 +185,7 @@ header ul a:focus {
 .hero-buttext {
   font-weight: bold;
   font-size: 16px;
-  line-height: 30px;
+  line-height: 1.87;
   color: var(--white);
   align-items: center;
   text-align: center;
