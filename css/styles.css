@@ -100,7 +100,6 @@ body * {
 
 header * {
   text-decoration: none;
-  color: var(--logo-header);
   font-weight: 500;
   letter-spacing: 0.02em;
   display: inline-block;
@@ -123,8 +122,13 @@ header ul a:focus {
   padding-left: 93px;
 }
 
+.site-nav a {
+  color: var(--logo-header);
+}
+
 .mailtel-nav {
   padding-left: 281px;
+  color: var(--text);
 }
 
 .mailtel-nav .tel {
